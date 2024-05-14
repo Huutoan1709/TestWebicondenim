@@ -1,0 +1,15 @@
+C:\Users\KTPM\66_Toan_TestWebIcondenim\Dientichhinhvuong_66_toan\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\KTPM\66_Toan_TestWebIcondenim\Dientichhinhvuong_66_toan\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\KTPM\66_Toan_TestWebIcondenim\Dientichhinhvuong_66_toan\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\KTPM\66_Toan_TestWebIcondenim\Dientichhinhvuong_66_toan\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\KTPM\66_Toan_TestWebIcondenim\Dientichhinhvuong_66_toan\bin\Debug\Dientichhinhvuong_66_toan.dll
+C:\Users\KTPM\66_Toan_TestWebIcondenim\Dientichhinhvuong_66_toan\bin\Debug\Dientichhinhvuong_66_toan.pdb
+C:\Users\KTPM\66_Toan_TestWebIcondenim\Dientichhinhvuong_66_toan\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\KTPM\66_Toan_TestWebIcondenim\Dientichhinhvuong_66_toan\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\KTPM\66_Toan_TestWebIcondenim\Dientichhinhvuong_66_toan\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\KTPM\66_Toan_TestWebIcondenim\Dientichhinhvuong_66_toan\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\KTPM\66_Toan_TestWebIcondenim\Dientichhinhvuong_66_toan\obj\Debug\Dientichhinhvuong_66_toan.csproj.AssemblyReference.cache
+C:\Users\KTPM\66_Toan_TestWebIcondenim\Dientichhinhvuong_66_toan\obj\Debug\Dientichhinhvuong_66_toan.csproj.CoreCompileInputs.cache
+C:\Users\KTPM\66_Toan_TestWebIcondenim\Dientichhinhvuong_66_toan\obj\Debug\Dientichhinhvuong_66_toan.csproj.CopyComplete
+C:\Users\KTPM\66_Toan_TestWebIcondenim\Dientichhinhvuong_66_toan\obj\Debug\Dientichhinhvuong_66_toan.dll
+C:\Users\KTPM\66_Toan_TestWebIcondenim\Dientichhinhvuong_66_toan\obj\Debug\Dientichhinhvuong_66_toan.pdb
